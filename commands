@@ -11,6 +11,7 @@ groupadd sysadm
 cat /etc/group/ -i sysadm
 useradd harry
 passwd harry same for natasha and sarah
+___________________________________________usermod -a -G sysadm hari    for adding in two group
 usermod -G sysadm harry
 usermod -G sysadm natasha
 usermod -s /sbin/nologin sarah
