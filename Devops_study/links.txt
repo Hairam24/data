@@ -1,0 +1,12 @@
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/  ............................................AWS for Jenkins
+
+
+https://tomcat.apache.org/download-90.cgi  ...............................................................................Tomcat tar file
+
+
+
+
+https://medium.com/@raguyazhin/step-by-step-guide-to-install-apache-tomcat-on-amazon-linux-120748a151a9 ..................Tomcat guide to install
+
+
+https://github.com/Divyaa059/june10-1/  ..................................................................................GitHub cmds
