@@ -1,4 +1,5 @@
 server
+enable all ICNP IPv4, HTTP, HTTPS, TCP           Others : 8080, 8081
 ping ip ---to check connection (enable all ICMP Ipv4)
  history
     1  ip a s
