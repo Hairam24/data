@@ -1,4 +1,5 @@
 server
+ping ip ---to check connection (enable all ICMP Ipv4)
  history
     1  ip a s
     2  vim /etc/hosts
