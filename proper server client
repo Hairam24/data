@@ -36,6 +36,7 @@ client 1
    17  git remote add origin root@server.example.com:/pro
    18  git remote remove origin
    19  git remote add origin root@server.example.com:/pro
+   20  git remote -v
    20  git push origin master
    21  history
 
